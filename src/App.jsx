@@ -15,7 +15,7 @@ export default class App extends Component{
     <Cards image="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/9/21/2424aeed-5a58-49cc-8160-c4314de90f95_88a5ee43-9e7a-41dc-b5ac-250a0919c660.jpg" title="Snacks" loc="KPHB"/> */}
 
     {/* {CardDetails.map(res=><Cards imgSrc={res.imgSrc} imgAlt={res.imgAlt} title = {res.title} description = {res.description}/>)} */}
-      {/* <Cards/> */}
+       <Cards/>
       <DefaultProps mobile={9398433412} user="saivarun"/>
      </>
   
